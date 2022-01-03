@@ -1,0 +1,4 @@
+This dataset contains underwater temperature (°C) data from seven islands and two submerged rocky reefs along the Santa Catarina coast, southern Brazil, between 26°22’ S and 28°26’ S. Temperature records were acquired every 20 minutes, between December 2012 and July 2014, using a HOBO Pendant® Temperature Data Logger UA-002. The data loggers were installed underwater by SCUBA divers and anchored to the rocky reef with epoxy at 5 m and 12 m depth, in the islands, and at 22 m depth in the submerged reefs. Due to equipment loss, some depths are missing for specific sites. The dataset is structured in seven variables: Site, Latitude, Longitude, Date, Time of Sampling, Temperature (°C) and Depth (meters).
+
+Acknowledgments
+Faria-Junior Edson, Alberto Lindner (2019). An underwater temperature dataset from coastal islands in Santa Catarina, southern Brazil: high accuracy data from different depths. SEANOE. https://doi.org/10.17882/62120
